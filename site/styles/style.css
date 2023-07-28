@@ -236,6 +236,10 @@ footer p {
 }
 
 
+/* PAGINA CONTATO */
+
+#contato-content {}
+
 
 
 /* MEDIA-QUERIES */
@@ -264,14 +268,6 @@ footer p {
   .bloco>p {
     font-size: 1.5rem;
     padding-inline: 10px;
-  }
-}
-
-@media (min-width: 1024px) {
-  #contato-footer {
-    position: absolute !important;
-    bottom: 0 !important;
-    width: 100% !important;
   }
 }
 
