@@ -341,7 +341,7 @@ footer p {
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .card-section .card:last-child {
     display: none;
   }
